@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+ body{
+
+   min-height: 50vh;
+   background: black;
+   color: beige;
+   display: grid;
+   place-items: center;
+ }
+
+ section{
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.20)
+
+ }
+  
+ p{
+    font-size: 100px;
+ }
